@@ -11,3 +11,10 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 5. Making the code more efficient, clean and portable.
 6.Integration of software for the final application
 7.Testing the code using various tools.
+
+### High Level Requirements :-
+|ID|Description|Cateory|Status|
+|--|--|--|--|
+|HR1|Display program menu screen with options|Technical|Implemented|
+|HR2|Choosing from 4 options|Technical|Implemented|
+|HR3|abcdd|abccc|abcc|
