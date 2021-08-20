@@ -1,6 +1,6 @@
 # Requirements
 ## Project overview
-Medical technology is a field where rapid diagnostics and treatment at a large scale is essential.This is where the requirement of MEDI-CALC comes in. Given the ratio of doctors/medical proffessionals to people in our country,It is important that there is a system in place to give the required parameters for dignostics from test results.
+This project is built with the aim of developing a calculator application that includes essential parameter/score calculations from various different fields.The development is being done in Medical parameters,Simple arithmetic,Scientific and Electronic calculators.The features of all these are combined into a single application.This can be further extnded for more parameters too.Medical technology is a field where rapid diagnostics and treatment at a large scale is essential.This is where the requirement of MEDI-CALC comes in. Given the ratio of doctors/medical proffessionals to people in our country,It is important that there is a system in place to give the required parameters for dignostics from test results.
  
 ## Objectives
 1.Defining a requirement and develop an application for the same.
