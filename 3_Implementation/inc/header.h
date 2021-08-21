@@ -12,4 +12,5 @@ void opt_1();
 
 float bmi(float h, float w);
 float bsa(float h, float w);
+float iron_deficiency(float a,float b,float c);
 #endif

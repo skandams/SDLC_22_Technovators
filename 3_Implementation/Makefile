@@ -7,6 +7,7 @@ src/main_menu.c\
 src/opt_1.c\
 src/bsa.c\
 src/bmi.c\
+src\iron_deficiency.c
 
 
 OBJ =  main.o\
@@ -15,7 +16,7 @@ src/bsa.o\
 src/bmi.o\
 src/main_menu.o\
 src/opt_1.o\
-
+src\iron_deficiency.o
 
 INC = inc #header.h replaced with its path,inc 
 
