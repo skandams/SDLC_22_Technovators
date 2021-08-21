@@ -52,6 +52,13 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 3. Series Circuit Analysis and Source transformation: Source transformation is a process of simplifying a circuit solution.
 
 
+### 3. Arithmetic Calculator
+1. The fundamental difference between a calculator and computer is that a computer can be programmed in a way that allows the program to take different branches according to intermediate results, while calculators are pre-designed with specific functions (such as addition, multiplication, and logarithms) built in.
+2. It's pre-designed specific functions are to perform operations like addition, subtraction, multiplication, divivsion, squares and square root. It's basic and user friendly function makes it more reliable.
+3. It’s likely that you have already used a arithmetic calculator in your high school math classes, and you may have even used a business or graphing calculator in an economics or business statistics course.
+ 
+
+
 
 ## SWOT Analysis:
 ![swot analysis](https://user-images.githubusercontent.com/86238282/130313686-c2f81e29-b3ee-4550-a2ce-0338d02c7ec0.jpg)
