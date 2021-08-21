@@ -55,5 +55,6 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 |LR3|When user needs to go to the previous menu, it should be displayed|HR3|Technical|Implemented|
 |LR4|When user wants to directly go to the main menu it should navigate|HR3|Technical|Implemented|
 |LR5|When user desires to exit the terminal at any stage of user input, the terminal should be closed|HR4|Technical|Implemented|
+|LR |Calculating current, voltage, Resistor colour code and other electronic parameters|HR7|Technical|Implemented|
 |LR |The calculation of the required parameter and value to be printed|HR8|Technical|Implemented|
 |LR |The values from the user should be in the desired format (For eg: if weight is asked in kgs it shouldn't be in grams)|HR8|Technical|Implemented|
