@@ -39,6 +39,352 @@ void opt_2()
         default: printf("Invalid input \n"); main_menu(); break;
     }
 }
+
+void p1()
+{
+    float x;
+    int y;
+    printf("You have selected inverse function\n");
+    printf("Number : ");
+    scanf("%f",&x);
+    printf("Inverse of %f : %f\n\n",x, inverse(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p1();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p2()
+{
+    float x;
+    int y;
+    printf("You have selected NaturalLog function\n");
+    printf("Number : ");
+    scanf("%f",&x);
+    printf("Natural Logarithm of %f : %f\n\n",naturalLog(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p2();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p3()
+{
+    float x;
+    int y;
+    printf("You have selected log function\n");
+    printf("Number : ");
+    scanf("%f",&x);
+    printf("Logarithm of %f : %f\n\n",x,logarithm(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p3();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p4()
+{
+    float n;
+    int y;
+    printf("You have selected Square function\n");
+    printf("Number : ");
+    scanf("%f",&n);
+    printf("Square of %f : %f\n\n",n,square(n));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p4();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p5()
+{
+    float n;
+    int y;
+    printf("You have selected Square Root function\n");
+    printf("Number : ");
+    scanf("%f",&n);
+    printf("Square Root of %f : %f\n\n",n,squareRoot(n));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p5();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p6()
+{
+    float n;
+    int y;
+    printf("You have selected Cube function\n");
+    printf("Number : ");
+    scanf("%f",&n);
+    printf("Cube of %f : %f\n\n",n,cube(n));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p6();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p7()
+{
+    float n;
+    int y;
+    printf("You have selected Cube Root function\n");
+    printf("Number : ");
+    scanf("%f",&n);
+    printf("Cube Root of %f : %f\n\n",n,cubeRoot(n));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p7();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p8()
+{
+    float n,m;
+    int y;
+    printf("You have selected Power function\n");
+    printf("Number1(base) : ");
+    scanf("%f",&n);
+    printf("Number2(power) : ");
+    scanf("%f",&m);
+    printf("%f to the power %f : %f\n\n",n,m,power(n,m));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p8();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p9()
+{
+    float x;
+    int y;
+    printf("You have selected Sine function\n");
+    printf("Degree(radians) : ");
+    scanf("%f",&x);
+    printf("Sine of %f : %f\n\n",x,sine(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p9();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p10()
+{
+    float x;
+    int y;
+    printf("You have selected Cosine function\n");
+    printf("Degree(radians) : ");
+    scanf("%f",&x);
+    printf("Cosine of %f : %f\n\n",x,cosine(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p10();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+
+void p11()
+{
+    float x;
+    int y;
+    printf("You have selected Tangent function\n");
+    printf("Degree(radians) : ");
+    scanf("%f",&x);
+    printf("Tangent of %f : %f\n\n",x,tangent(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p11();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p12()
+{
+    float x;
+    int y;
+    printf("You have selected SineInverse function\n");
+    printf("Number : ");
+    scanf("%f",&x);
+    printf("Inverse Sine of  %f : %f\n\n",x,sineInverse(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p12();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p13()
+{
+    float x;
+    int y;
+    printf("You have selected CosineInverse function\n");
+    printf("Number : ");
+    scanf("%f",&x);
+    printf("Inverse Cosine of  %f : %f\n\n",x,cosineInverse(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p13();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p14()
+{
+    float x;
+    int y;
+    printf("You have selected TangentInverse function\n");
+    printf("Number : ");
+    scanf("%f",&x);
+    printf("Inverse Tangent of  %f : %f\n\n",x,tangentInverse(x));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p14();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p15()
+{
+    float n,m;
+    int y;
+    printf("You have selected Rect to Polar function\n");
+    printf("Number1(x coordinate) : ");
+    scanf("%f",&n);
+    printf("Number2(y coordinate) : ");
+    scanf("%f",&m);
+    printf("Magnitude : %f\n",rectToPolarMagnitude(n,m));
+    printf("Angle : %f\n\n",rectToPolarAngle(n,m));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p15();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
+void p16()
+{
+    float n,m;
+    int y;
+    printf("You have selected Polar to Rect function\n");
+    printf("Number1(Magnitude) : ");
+    scanf("%f",&n);
+    printf("Number2(Angle) : ");
+    scanf("%f",&m);
+    printf("X coordinate : %f\n",polarToRectX(n,m));
+    printf("Y coordinate : %f\n\n",polarToRectY(n,m));
+    printf("1. Continue this Fucnction\n");
+    printf("0. Other Options\n");
+    scanf("%d",&y);
+    if (y==1)
+    {
+        p16();
+    }
+    else
+    {
+        opt_2();
+    }
+}
+
 float inverse(float n)
 {
     if(n==0)
