@@ -1,35 +1,43 @@
 # Requirements
+
 ## Project overview
-This project is built with the aim of developing a calculator application that includes essential parameter/score calculations from various different fields.The development is being done in Medical parameters,Simple arithmetic,Scientific and Electronic calculators.The features of all these are combined into a single application.This can be further extnded for more parameters too.Medical technology is a field where rapid diagnostics and treatment at a large scale is essential.This is where the requirement of MEDI-CALC comes in. Given the ratio of doctors/medical proffessionals to people in our country,It is important that there is a system in place to give the required parameters for dignostics from test results.
+
+Humans have the tendency of being calculative in each stage of their life. Hence, calculations have been a vital part of mankind from years. The people in old era had no facilities like various calculators available now and so had to use pen paper for long and varied calculations. But, today is an era of TECHNOLOGY and CREATIVITY. As said by the renowed Sadhguruji that "Creation is indeed just a complex amalgamtion". Hence, here we present to you a project that aims at reducing your work of fidgeting from one app to other for when comes to various calculation and conversion techniques by amalgamation of various different calculators. This project presents the essential parameter/score from various different fields of calculations. The project helps you to perform normal arithmetic calculations and basic conversions along with scientific as well as electronic calculations. Wait, it doesn't end here. We also have a Medical Calculator and Bank Calculator which makes this a must to use platform. This can be further extended by adding more parameters as well as certain more medical facilities and combined to an app that every person wish would have with them.  
+
+Medical technology is a field where rapid diagnostics and treatment at a large scale is essential and hence comes the requirement of MEDI-CALC. Given the ratio of doctors/medical proffessionals to people in our country, it is important that there is a system in place to give the required parameters for dignostics from test results. As a part of future extension, we can interact with the doctors and have a more specific diagnostic questions and parameters in the quizes so as to enhance the reliability of the medical calculator. For students and teenagers, this app is a boon as it can help them with the electronic as well as scientific calculation and also help them aware about their medical health. Not only that, their banking related calculations can also be captured making it an all rounder platform.
  
-## Objectives
-1.Defining a requirement and develop an application for the same.
-2.Brainstorming and work division
-3.Requirement/feature identification
+## Objectives:
+
+1. To develop a one stop platform for all calculations.
+2. Brainstorming and work division
+3. Requirement/feature identification
 4. Presenting the design using visualisation tools.
 5. Implementing the project in c language.
 5. Making the code more efficient, clean and portable.
-6.Integration of software for the final application
-7.Testing the code using various tools.
+6. Integration of software for the final application
+7. Testing the code using various tools.
+8. To work independently, yet contribute together as a whole.
 
 ### High Level Requirements :-
 |ID|Description|Cateory|Status|
 |--|--|--|--|
-|HR1|Display program menu screen with options|Technical|Implemented|
-|HR2|Choosing from 4 options|Technical|Implemented|
-|HR3|The Calculator selection should navigate to the respective calculator|Technical|Implemented|
-|HR4|The Medical Calculator should work as per user request|Technical|Implemented|
+|HR1|Display of main menu and selection of the approppriate calculator|Technical|Implemented|
+|HR2|Navigate between various functions as per user entered input|Technical|Implemented|
+|HR3|Returning to the desired menu when prompted after using a specific calculator|Technical|Implemented|
+|HR4|Exiting from terminal as per user input|Technical|Implemented|
 |HR5|The Scientific Calculator should work as per user request|Technical|Implemented|
 |HR6|The Arithmetic Calculator should work as per user request|Technical|Implemented|
 |HR7|The Electronic Calculator should work as per user request|Technical|Implemented|
+|HR8|The Medical Calculator should work as per user request|Technical|Implemented|
+|HR9|The Bank Calculator should work as per user request|Technical|Implemented|
 
 ### Low Level Requirements :-
 |ID|Description|HLR ID|Category|Status|
 |--|--|--|--|--|
-|LR1| | |Technical|Implemented|
-|LR2| | |Technical|Implemented|
-|LR3| | |Technical|Implemented|
-|LR4| | |Technical|Implemented|
-|LR5| | |Technical|Implemented|
-|LR6| | |Technical|Implemented|
-|LR7| | |Technical|Implemented|
+|LR1|The main menu should be clearly displayed post which the input from the user should be captured and operations should be done accordingly|HR1|Technical|Implemented|
+|LR2|Once entered to a specific calculator, all functions should be displayed and according to the user input it should navigate to the next part|HR2|Technical|Implemented|
+|LR3|When user needs to go to the previous menu, it should be displayed|HR3|Technical|Implemented|
+|LR4|When user wants to directly go to the main menu it should navigate|HR3|Technical|Implemented|
+|LR5|When user desires to exit the terminal at any stage of user input, the terminal should be closed|HR4|Technical|Implemented|
+|LR |The calculation of the required parameter and value to be printed|HR8|Technical|Implemented|
+|LR |The values from the user should be in the desired format (For eg: if weight is asked in kgs it shouldn't be in grams)|HR8|Technical|Implemented|
