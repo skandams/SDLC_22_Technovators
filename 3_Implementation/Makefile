@@ -4,13 +4,19 @@
 SRC = main.c\
 
 src/medical_calculator.c\
+src/main_menu.c\
+src/opt_1.c\
 src/bsa.c\
+src/bmi.c\
 
 
 OBJ =  main.o\
 
 src/medical_calculator.o\
 src/bsa.o\
+src/bmi.o\
+src/main_menu.o\
+src/opt_1.o\
 
 
 INC = inc #header.h replaced with its path,inc 
