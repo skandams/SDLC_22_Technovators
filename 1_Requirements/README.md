@@ -53,6 +53,14 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 |LR3|When user needs to go to the previous menu, it should be displayed|HR3|Technical|Implemented|
 |LR4|When user wants to directly go to the main menu it should navigate|HR3|Technical|Implemented|
 |LR5|When user desires to exit the terminal at any stage of user input, the terminal should be closed|HR4|Technical|Implemented|
+|LR8|Calculation of sine of a given number|HR5|Technical|Implemented|
+|LR9|Calculation of cosine of a given number|HR5|Technical|Implemented|
+|LR10|Calculation of tangent of a given number|HR5|Technical|Implemented|
+|LR11|Calculation of sine inveres of a given number|HR5|Technical|Implemented|
+|LR12|Calculation of cosine inverse of a given number|HR5|Technical|Implemented|
+|LR13|Calculation of tangent inverse of a given number|HR5|Technical|Implemented|
+|LR14|Calculation of natural log of a given number|HR5|Technical|Implemented|
+|LR15|Calculation of log of a given number|HR5|Technical|Implemented|
 |LA29|User input to select an option from multiple medical parameters are given and the same is printed in the medi-Calc main menu|HR2|Technical|Implemented|
 |LA30|User input is fetched for the parameters selected and it is calculated|HR7|Technical|Implemented|
 |LA31|Required parameter is calculated and value is printed.|HR7|Technical|Implemented|
