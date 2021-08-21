@@ -1,5 +1,5 @@
 # SDLC_22_Technovators
-#
+# Team Mini-Project
 
 ## Folder Structure
 
