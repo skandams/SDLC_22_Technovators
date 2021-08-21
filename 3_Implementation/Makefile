@@ -2,7 +2,6 @@
 #   Command
 #adding location of the files which is src. "\" is used to add multiple file locations
 SRC = main.c\
-
 src/medical_calculator.c\
 src/main_menu.c\
 src/opt_1.c\
@@ -11,7 +10,6 @@ src/bmi.c\
 
 
 OBJ =  main.o\
-
 src/medical_calculator.o\
 src/bsa.o\
 src/bmi.o\
