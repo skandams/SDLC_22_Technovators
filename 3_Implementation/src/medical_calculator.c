@@ -12,14 +12,7 @@ void medical_calculator()
      float height, weight;
      switch(med)
      {
-     /*   case 1:
-        printf("Enter the height in meters: ");
-        scanf("%f", &height);
-        printf("\n Enter the weight in kgs:");
-        scanf("%f", &weight);
-        printf("\n The BMI is %f" , bmi(height,weight));
-        opt_1();
-        break; */
+     
          
         case 2:
         printf("Enter the height in centimeters: ");
