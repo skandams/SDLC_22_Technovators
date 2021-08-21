@@ -1,8 +1,12 @@
-#include "header.h"
-float iron_deficiency(float a,float b,float c){
-
+#include "header.h" //including header file
+// function to calculate Iron deficiency
+//a =
+float iron_deficiency(float weight,float targethaemo,float actualhaemo,float ironstore){
+//declaring variable
     float irondeficiency;
-   irondeficiency=a+b+c;
+    //calculating parameter
+   irondeficiency=weight*(targethaemo-actualhaemo)*2.4+ironstore;
+   
     return (irondeficiency);
 
 

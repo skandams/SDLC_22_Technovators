@@ -7,7 +7,9 @@ src/main_menu.c\
 src/opt_1.c\
 src/bsa.c\
 src/bmi.c\
-src\iron_deficiency.c
+src/iron_deficiency.c\
+src/waist_to_height_ratio.c\
+src/waist_to_hip_ratio.c
 
 
 OBJ =  main.o\
@@ -16,7 +18,9 @@ src/bsa.o\
 src/bmi.o\
 src/main_menu.o\
 src/opt_1.o\
-src\iron_deficiency.o
+src\iron_deficiency.o\
+src/waist_to_height_ratio.c\
+src/waist_to_hip_ratio.o
 
 INC = inc #header.h replaced with its path,inc 
 
