@@ -19,7 +19,7 @@ src/bsa.o\
 src/bmi.o\
 src/main_menu.o\
 src/opt_1.o\
-src\iron_deficiency.o\
+src/iron_deficiency.o\
 src/waist_to_height_ratio.c\
 src/waist_to_hip_ratio.o\
 src/bmr.o
