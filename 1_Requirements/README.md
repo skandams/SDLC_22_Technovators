@@ -49,9 +49,9 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 ### 3. Electronic Calculator
 1. Calculating basic circuit parameters sush as Current, Voltage and resistance.
 2. Finding the resistance in series and resistance in parallel in any given circuit. 
-3. Source transformation
-. Transforming source Voltage to corresponding source current and parallel resistance.
-. Transforming source Current to corresponding source voltage and series resistance.
+3. Source transformation:
+   a. Transforming source Voltage to corresponding source current and parallel resistance.
+   b. Transforming source Current to corresponding source voltage and series resistance.
 
 
 ### 3. Arithmetic Calculator
