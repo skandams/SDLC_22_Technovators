@@ -132,10 +132,10 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 |LA28|User input to select an option from multiple medical parameters are given and the same is printed in the medi-Calc main menu|HR2|Technical|Implemented|
 |LA29|User input is fetched for the parameters selected and it is calculated|HR7|Technical|Implemented|
 |LA30|Required parameter is calculated and value is printed|HR7|Technical|Implemented|
-|LA31|To create a new account|HR9|Implemented|
-|LA32|To Deposit some amount in newly created account|HR9|Implemented|
-|LA33|To Withdraw some amount from your account|HR9|Implemented|
-|LA34|To display all information of the existing accounts|HR9|Implemented|
-|LA35|To log out successfully|HR9|Implemented|
+|LA31|To create a new account|HR9|Technical|Implemented|
+|LA32|To Deposit some amount in newly created account|HR9|Technical|Implemented|
+|LA33|To Withdraw some amount from your account|HR9|Technical|Implemented|
+|LA34|To display all information of the existing accounts|HR9|Technical|Implemented|
+|LA35|To log out successfully|HR9|Technical|Implemented|
 
 
