@@ -21,6 +21,31 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 ### 1. Medical Calculator
 
 
+
+
+
+
+
+### 2. Scientific Calculator
+1.Square and Cube Roots              : possible to use a scientific calculator to find the square root of a number, and this is one of the simplest operations you can
+                                       perform.Enter the number, hit the SQRT and CUBE key, and your answer will appear.
+
+2.Logarithms                         : Once you have increased your knowledge and you’re learning new concepts related to calculus and trigonometry, it’s likely that you will have                                        to learn about logarithms. These formulas help you to calculate speed, area, and much more.
+
+3.Sine, cosine, and tangent functions: For those taking a trigonometry or calculus course, sine functions are a given. They also often pop up if your career path involves any sort                                        of engineering or architectural field.
+
+4.Inverse and Natural Log            : For a function to have an inverse, each element y ∈ Y must correspond to no more than one x ∈ X and , The natural log is the inverse of , a                                        fancy term for opposite. Speaking of fancy, the Latin name is logarithmus naturali, giving the abbreviation ln.
+                                       
+                                       Formula = e^{\ln x}=x
+                                       
+                                       \ln	=	natural logarithm
+                                       
+                                       e	=	natural exponent
+                                       
+                                       x	=	real number
+
+
+
 ### 3. Electronic Calculator
 1. Resistor Color code: The carbon composition resistors have 3 to 6 resistor color bands. The 3 - band resistor has three colors with multiplier and no tolerance. The three bands can be selected to know the resistor value. Whereas, the 4 band, 5 band, and 6 band resistors have an extra band known as tolerance.
 2. Current and Voltage Division: The current divider is a simple circuit that provides an output current that is fraction of the input current . The voltage across a resistance is equal to the value of the ratio of resistance divided by equivalent. This rule is used to determine the value of the voltage in a divider circuit.
@@ -30,6 +55,21 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 
 ## SWOT Analysis:
 ![swot analysis](https://user-images.githubusercontent.com/86238282/130313686-c2f81e29-b3ee-4550-a2ce-0338d02c7ec0.jpg)
+
+
+## 4W and 1H:
+## When –
+>>Anytime by Technical Students for performing calculations.
+## What –
+>>Many people still depend on manual calculations which may be incorrect sometimes hence this alternative will serve the best.
+## Where – 
+>>Anywhere with any Operating System Platform.
+## Who –
+>>Any Technical field person can use this project for performing calculations quickly.
+
+## How –
+>>This project is useful for performing basic calculations.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
+
 
 
 
