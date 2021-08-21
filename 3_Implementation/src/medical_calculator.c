@@ -1,9 +1,4 @@
-
-#include<stdio.h>
-#include<math.h>
-#include<stdlib.h>
-
-
+#include "header.h"
 void medical_calculator()
 {
      int med;
@@ -17,14 +12,14 @@ void medical_calculator()
      float height, weight;
      switch(med)
      {
-        case 1:
+     /*   case 1:
         printf("Enter the height in meters: ");
         scanf("%f", &height);
         printf("\n Enter the weight in kgs:");
         scanf("%f", &weight);
         printf("\n The BMI is %f" , bmi(height,weight));
         opt_1();
-        break;
+        break; */
          
         case 2:
         printf("Enter the height in centimeters: ");
@@ -39,21 +34,4 @@ void medical_calculator()
 
         default: printf("Invalid input \n"); medical_calculator();
      }
-}
-
-
-
-
-float bsa(float h, float w)
-{
-    float bsa;
-    bsa=sqrt((h*w)/3600);
-    return (bsa);
-}
-
-int main()
-{
-     printf("Welcome to our portal \n \n");
-     main_menu();
-     return 0;
 }
