@@ -1,4 +1,5 @@
 # SDLC_22_Technovators
+#
 
 ## Folder Structure
 
@@ -11,3 +12,9 @@ Folder                   | Description
 `5.Report`               | Documentation of whole project
 `6.ImagesAndVideos`      | Code Execution Images and Videos
 `7.Others`               | Other Files
+
+
+
+ |tool|build|codacy|code inspector|cpp check|Valgrind|
+ |----|---------|----|---------|-----|----|
+ |badge|add|add|add|add|add|
