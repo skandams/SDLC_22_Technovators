@@ -19,7 +19,7 @@ void medical_calculator()
      printf("Select one option \n");
      scanf("%d", &med);
      float height, weight,waist,hip,actualhaemo,targethaemo,ironstore,age;
-     char *gender ='\0';
+     char gender;
      switch(med)
      {
      
@@ -72,9 +72,9 @@ void medical_calculator()
         printf("\n Enter your age in years:");
         scanf("%f",&age);
         printf("\n Gender [M/F] :");
-        scanf("%c", gender);
+        scanf("%c",&gender);
         
-        printf("\n The Waist to height ratio is %f",waist_to_height_ratio(waist,height));
+        printf("\n The BMR is %f",bmr(weight,height,age,gender));
         opt_1();
         break;
 
