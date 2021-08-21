@@ -1,6 +1,6 @@
 # Structural Diagrams
 
-## Low Level Diagrams
+## Low Level Design
 
 ### FLowchart of Electronic Calculator
 ![Structural Diagram Low Level - Electronic](https://user-images.githubusercontent.com/87299719/130326902-30c221a8-6bfb-4d7d-8d34-2da676bef76c.png)
