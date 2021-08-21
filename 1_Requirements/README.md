@@ -20,12 +20,9 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 
 ## Features:
 ### 3. Electronic Calcutor
-1. Resistor Color code. 
-The carbon composition resistors have 3 to 6 resistor color bands. The 3 - band resistor has three colors with multiplier and no tolerance. The three bands can be selected to know the resistor value. Whereas, the 4 band, 5 band, and 6 band resistors have an extra band known as tolerance.
-2. Current and Voltage Division.
-The current divider is a simple circuit that provides an output current that is fraction of the input current . The voltage across a resistance is equal to the value of the ratio of resistance divided by equivalent. This rule is used to determine the value of the voltage in a divider circuit.
-3. Series Circuit Analysis and Source transformation.
-Source transformation is a process of simplifying a circuit solution.
+1. Resistor Color code: The carbon composition resistors have 3 to 6 resistor color bands. The 3 - band resistor has three colors with multiplier and no tolerance. The three bands can be selected to know the resistor value. Whereas, the 4 band, 5 band, and 6 band resistors have an extra band known as tolerance.
+2. Current and Voltage Division: The current divider is a simple circuit that provides an output current that is fraction of the input current . The voltage across a resistance is equal to the value of the ratio of resistance divided by equivalent. This rule is used to determine the value of the voltage in a divider circuit.
+3. Series Circuit Analysis and Source transformation: Source transformation is a process of simplifying a circuit solution.
 
 ### High Level Requirements :-
 |ID|Description|Cateory|Status|
