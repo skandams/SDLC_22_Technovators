@@ -42,6 +42,7 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 |HR1|Display of main menu and selection of the approppriate calculator|Technical|Implemented|
 |HR2|Navigate between various functions as per user entered input|Technical|Implemented|
 |HR3|Returning to the desired menu when prompted after using a specific calculator|Technical|Implemented|
+|HR4|Exiting from terminal as per user input|Technical|Implemented|
 |HR7| Calculation of medical parameters and display of result|Technical|Implemented|
 
 
@@ -63,5 +64,5 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 |LR15|Calculation of log of a given number|HR5|Technical|Implemented|
 |LA29|User input to select an option from multiple medical parameters are given and the same is printed in the medi-Calc main menu|HR2|Technical|Implemented|
 |LA30|User input is fetched for the parameters selected and it is calculated|HR7|Technical|Implemented|
-|LA31|Required parameter is calculated and value is printed.|HR7|Technical|Implemented|
+|LA31|Required parameter is calculated and value is printed|HR7|Technical|Implemented|
 
