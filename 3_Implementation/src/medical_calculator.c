@@ -18,7 +18,8 @@ void medical_calculator()
      printf("0. Go to the main menu? \n");
      printf("Select one option \n");
      scanf("%d", &med);
-     float height, weight,waist,hip,actualhaemo,targethaemo,ironstore;
+     float height, weight,waist,hip,actualhaemo,targethaemo,ironstore,age;
+     char *gender ='\0';
      switch(med)
      {
      
@@ -57,6 +58,21 @@ void medical_calculator()
         scanf("%f",&waist);
         printf("\n Enter height in cm:");
         scanf("%f",&height);
+        
+        printf("\n The Waist to height ratio is %f",waist_to_height_ratio(waist,height));
+        opt_1();
+        break;
+
+        case 6:
+        
+        printf("Enter the weight in kg: ");
+        scanf("%f",&weight);
+        printf("\n Enter height in cm:");
+        scanf("%f",&height);
+        printf("\n Enter your age in years:");
+        scanf("%f",&age);
+        printf("\n Gender [M/F] :");
+        scanf("%c", gender);
         
         printf("\n The Waist to height ratio is %f",waist_to_height_ratio(waist,height));
         opt_1();

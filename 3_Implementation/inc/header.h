@@ -15,7 +15,7 @@ float bsa(float h, float w);
 float iron_deficiency(float weight,float actualhaemo,float targethaemo,float ironstore);
 float waist_to_height_ratio(float height,float waist);
 float waist_to_hip_ratio(float waist,float hip);
-//float bmr(float h, float w,int age,char c);
+float bmr(float weight, float height,int age,char *gender);
 //float idealweight(float h, float w,int age,char c);
 
 #endif
