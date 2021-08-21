@@ -47,9 +47,11 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 
 
 ### 3. Electronic Calculator
-1. Resistor Color code: The carbon composition resistors have 3 to 6 resistor color bands. The 3 - band resistor has three colors with multiplier and no tolerance. The three bands can be selected to know the resistor value. Whereas, the 4 band, 5 band, and 6 band resistors have an extra band known as tolerance.
-2. Current and Voltage Division: The current divider is a simple circuit that provides an output current that is fraction of the input current . The voltage across a resistance is equal to the value of the ratio of resistance divided by equivalent. This rule is used to determine the value of the voltage in a divider circuit.
-3. Series Circuit Analysis and Source transformation: Source transformation is a process of simplifying a circuit solution.
+1. Calculating basic circuit parameters sush as Current, Voltage and resistance.
+2. Finding the resistance in series and resistance in parallel in any given circuit. 
+3. Source transformation
+. Transforming source Voltage to corresponding source current and parallel resistance.
+. Transforming source Current to corresponding source voltage and series resistance.
 
 
 ### 3. Arithmetic Calculator
@@ -104,31 +106,30 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 |LR3|When user needs to go to the previous menu, it should be displayed|HR3|Technical|Implemented|
 |LR4|When user wants to directly go to the main menu it should navigate|HR3|Technical|Implemented|
 |LR5|When user desires to exit the terminal at any stage of user input, the terminal should be closed|HR4|Technical|Implemented|
-|LR6|Current division calculation |HR8|Technical|Implemented|
-|LR7|Voltage division calculation |HR8|Technical|Implemented|
-|LR8|Calculation of sine of a given number|HR5|Technical|Implemented|
-|LR9|Calculation of cosine of a given number|HR5|Technical|Implemented|
-|LR10|Calculation of tangent of a given number|HR5|Technical|Implemented|
-|LR11|Calculation of sine inveres of a given number|HR5|Technical|Implemented|
-|LR12|Calculation of cosine inverse of a given number|HR5|Technical|Implemented|
-|LR13|Calculation of tangent inverse of a given number|HR5|Technical|Implemented|
-|LR14|Calculation of natural log of a given number|HR5|Technical|Implemented|
-|LR15|Calculation of log of a given number|HR5|Technical|Implemented|
-|LR16|Calculation of Square of a number|HR5|Technical|Implemented|
-|LR17|Calculation of Cube of a number|HR5|Technical|Implemented|
-|LR18|Calculation of Square Root of a number|HR5|Technical|Implemented|
-|LR19|Calculation of Cube Root of a number|HR5|Technical|Implemented|
-|LR20|Calculation of Power|HR5|Technical|Implemented|
-|LR21|Calculation of Factorial of a number|HR5|Technical|Implemented|
-|LR22|Calculation of Inverse of a number|HR5|Technical|Implemented|
-|LA23|Calculation of sum of two numbers|HR6|Technical|Implemented|
-|LA23|Calculation of difference of two numbers|HR6|Technical|Implemented|
+|LR6|Calculation of sine of a given number|HR5|Technical|Implemented|
+|LR7|Calculation of cosine of a given number|HR5|Technical|Implemented|
+|LR8|Calculation of tangent of a given number|HR5|Technical|Implemented|
+|LR9|Calculation of sine inveres of a given number|HR5|Technical|Implemented|
+|LR10|Calculation of cosine inverse of a given number|HR5|Technical|Implemented|
+|LR11|Calculation of tangent inverse of a given number|HR5|Technical|Implemented|
+|LR12|Calculation of natural log of a given number|HR5|Technical|Implemented|
+|LR13|Calculation of log of a given number|HR5|Technical|Implemented|
+|LR14|Calculation of Square of a number|HR5|Technical|Implemented|
+|LR15|Calculation of Cube of a number|HR5|Technical|Implemented|
+|LR16|Calculation of Square Root of a number|HR5|Technical|Implemented|
+|LR17|Calculation of Cube Root of a number|HR5|Technical|Implemented|
+|LR18|Calculation of Power|HR5|Technical|Implemented|
+|LR19|Calculation of Factorial of a number|HR5|Technical|Implemented|
+|LR20|Calculation of Inverse of a number|HR5|Technical|Implemented|
+|LA21|Calculation of sum of two numbers|HR6|Technical|Implemented|
+|LA22|Calculation of difference of two numbers|HR6|Technical|Implemented|
 |LA23|Calculation of product of two numbers|HR6|Technical|Implemented|
-|LA26|Calculation of ratio of two numbers|HR6|Technical|Implemented|
-|LA27|Calculation of Resistance from the color code|HR8|Technical|Implemented| 
-|LR28|Source transformation|HR8|Technical|Implemented|
-|LA29|User input to select an option from multiple medical parameters are given and the same is printed in the medi-Calc main menu|HR2|Technical|Implemented|
-|LA30|User input is fetched for the parameters selected and it is calculated|HR7|Technical|Implemented|
-|LA31|Required parameter is calculated and value is printed|HR7|Technical|Implemented|
+|LA24|Calculation of ratio of two numbers|HR6|Technical|Implemented|
+|LA25|Calculation of basic electrical parameters|HR8|Technical|Implemented| 
+|LA26|finding series and parallel resistance|HR8|Technical|Implemented|
+|LR27|Source transformation|HR8|Technical|Implemented|
+|LA28|User input to select an option from multiple medical parameters are given and the same is printed in the medi-Calc main menu|HR2|Technical|Implemented|
+|LA29|User input is fetched for the parameters selected and it is calculated|HR7|Technical|Implemented|
+|LA30|Required parameter is calculated and value is printed|HR7|Technical|Implemented|
 
 
