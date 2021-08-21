@@ -24,6 +24,16 @@ Medical technology is a field where rapid diagnostics and treatment at a large s
 2. Current and Voltage Division: The current divider is a simple circuit that provides an output current that is fraction of the input current . The voltage across a resistance is equal to the value of the ratio of resistance divided by equivalent. This rule is used to determine the value of the voltage in a divider circuit.
 3. Series Circuit Analysis and Source transformation: Source transformation is a process of simplifying a circuit solution.
 
+
+
+## SWOT Analysis:
+![swot analysis](https://user-images.githubusercontent.com/86238282/130313686-c2f81e29-b3ee-4550-a2ce-0338d02c7ec0.jpg)
+
+
+
+
+
+
 ### High Level Requirements :-
 |ID|Description|Cateory|Status|
 |--|--|--|--|
