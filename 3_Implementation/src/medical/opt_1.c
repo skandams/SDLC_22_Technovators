@@ -3,7 +3,7 @@
 void opt_1()
 { 
     int opt;
-    printf("\n \n \n ");
+    printf("\n \n");
     printf("1. To go to Medical Menu. \n 2. To go to the Main Menu. \n 0. To exit \n");
     scanf("%d", &opt);
 

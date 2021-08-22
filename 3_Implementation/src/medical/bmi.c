@@ -3,6 +3,6 @@
 float bmi(float h, float w)
 {
     float bmi;
-    bmi=h/w;
+    bmi=w/(h*h);
     return (bmi);
 }
